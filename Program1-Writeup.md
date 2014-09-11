@@ -38,7 +38,7 @@ zip is a compression and file packaging utility for Unix/Linux. Each file is sto
 | csv  |Comma seperated values                        | 484MB   |     59MB      | 87.8  |
 | sql  |Structured Query Language (insert statements) | 467MB   |     60MB      | 87.1  |
 | xml  |EXtensible Markup Language                    | 2.3GB   |     75MB      | 96.7  |
-| yaml |Yet Another Markup Language                   | 771MB   |     61MB      | 92.0  |
+| yml  |Yet Another Markup Language                   | 771MB   |     61MB      | 92.0  |
    
 %--->Compressed when compared to original file size.
   
