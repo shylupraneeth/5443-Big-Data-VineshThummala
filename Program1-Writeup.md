@@ -31,4 +31,14 @@ function csvJSON(csv){
   
 #### zip
 zip is a compression and file packaging utility for Unix/Linux. Each file is stored in single .zip {.zip-filename} file with the extension .zip.It won't compress your files down a ton, but it's super fast and you don't need to install any extra software. Great for Windows and Mac users.zip combines both the archiving and compression in one program.
+
+
+| Type | Description                                  | Size    |Compressed size|   %   |
+|------|----------------------------------------------|---------|---------------|------:|
+| csv  |Comma seperated values                        | 484MB   |     59MB      | 87.8  |
+| sql  |Structured Query Language (insert statements) | 467MB   |     60MB      | 87.1  |
+| xml  |EXtensible Markup Language                    | 2.3GB   |     75MB      | 96.7  |
+| yaml |Yet Another Markup Language                   | 771MB   |     61MB      | 92.0  |
+   
+%--->Compressed when compared to original file size.
   
